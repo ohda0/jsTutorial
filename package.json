@@ -1,0 +1,22 @@
+{
+  "name": "js-tutorial",
+  "version": "1.0.0",
+  "description": "Javascript Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohda0/jsTutorial.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "ohdayoung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohda0/jsTutorial/issues"
+  },
+  "homepage": "https://github.com/ohda0/jsTutorial#readme"
+}
